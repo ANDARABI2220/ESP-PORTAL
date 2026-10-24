@@ -1,0 +1,6 @@
+{
+  "name": "ESP Manager",
+  "description": "Smart ESP8266 & ESP32 IoT Device Manager with Gemini Mobile UI and High Thinking AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
